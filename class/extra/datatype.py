@@ -40,7 +40,7 @@ print(list1 is list2)  # False because lists are mutable and stored separately
 
 ### for tuples
 tup1 = (1, 2, 3)
-tup2 = (1, 2, 3)
+tup2 = 1, 2, 3
 
 print(id(tup1))  # Memory address of 'tup1'
 print(id(tup2))  # Memory address of 'tup2'

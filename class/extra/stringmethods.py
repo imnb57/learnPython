@@ -1,4 +1,4 @@
-### upper,lower,title,capitalize,swapcase,replace,translate,center,zfill,startswith,endswith,ljust,rjust,count,index,find,rfind,rjust,rindex,isupper,islower,istitle,isalpha,isdigit,isalnum,isidentifier,isprintable,isspace,indexing,slicing
+### upper,lower,title,capitalize,swapcase,replace,translate,center,zfill,startswith,endswith,ljust,rjust,count,index,find,rfind,rjust,rindex,isupper,islower,istitle,isalpha,isdigit,isalnum,isidentifier,isprintable,isspace,indexing,slicing,maketrans
 
 
 ### a-z = 97-122; A-Z = 65-90; 0-9 = 48-57 

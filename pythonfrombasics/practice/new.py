@@ -1,0 +1,11 @@
+a = 'python'
+print(a[:])
+print(a[::])
+print(a[1::])
+print(a[1:5:])
+print(a[8::-2])
+print(a[1:-2:-2])
+print(a[-6::-2])
+print(a[::4])
+print(a[1:0:1])
+print(a[8::2])

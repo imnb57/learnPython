@@ -1,0 +1,67 @@
+For a = 'programming'
+
+empty
+prog
+g
+rogra
+gr
+empty
+empty
+gmo
+rogramming
+gamn
+
+For a = 'python'
+
+python
+python
+ython
+ytho
+nhy
+empty
+p
+po
+empty
+empty
+
+For a = 'python programming'
+
+gimropnhy
+pto rgam
+ng
+rogra
+p
+empty
+empty
+poran
+ython programming
+to rgamn
+ing
+n
+python programming
+a
+imropnhy
+
+For a = 'pythonprogramming'
+
+ptopormig
+pythonprogramming
+nimmargorpno
+empty
+i
+imro
+ythonpro
+empty
+go
+an
+empty
+tp
+rogrammin
+empty
+pythonprogrammin
+pythonprogramming
+empty
+pythonprogramm
+gnimmargorpnohty
+pythonprogrammin
+
